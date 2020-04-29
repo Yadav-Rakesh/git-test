@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and NodeJs",
+  "main": "index.html",
+  "scripts": {
+    "start":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yadav-Rakesh/git-test.git"
+  },
+  "author": "Rakesh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yadav-Rakesh/git-test/issues"
+  },
+  "homepage": "https://github.com/Yadav-Rakesh/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
